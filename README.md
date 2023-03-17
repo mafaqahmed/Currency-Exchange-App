@@ -1,3 +1,3 @@
-# Task to create the frontend of a website in React
+# Currency Exchange APp
 
-The technologies used in this task are react and tailwind css
+The technologies used in this task are react, tailwind css and currency exchange api
